@@ -1,18 +1,18 @@
 ## Experimental Settings
 
-## Hardware
+### Hardware
 - **GPU**: Single RTX 3090
 
-## Training Parameters
+### Training Parameters
 - **Batch Size**: 4
 - **Optimizer**: AdamW ($\beta_1 = 0.5, \beta_2 = 0.9$)
 - **Learning Rate**: 10⁻⁴
 
-## Training Epochs
+### Training Epochs
 - **CelebA-HQ**: 100  
 - **Places2**: 4  
 
-## Input Size
+### Input Size
 - **Resolution**: 256 × 256
 
 
